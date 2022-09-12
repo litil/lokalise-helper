@@ -1,0 +1,1 @@
+Scripts used to identify useless or non translated keys in React projects using i18n.
